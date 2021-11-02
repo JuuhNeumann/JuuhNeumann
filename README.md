@@ -1,4 +1,4 @@
-## Julia Neumann
+## Júlia Neumann
  - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
 
   <br/><br/>
