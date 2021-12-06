@@ -12,12 +12,13 @@
  
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Esteves-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Esteves-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Esteves-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
- <img align="center" alt="Esteves-ps" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="Esteves-Postgree" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Esteves-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Neumann-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Neumann-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Neumann-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
+ <img align="center" alt="Neumann-ps" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Neumann-Postgree" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Neumann-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Neumann-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   
  
  
