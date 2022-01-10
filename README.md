@@ -1,7 +1,7 @@
 ## Júlia Neumann
  - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
 
-  <br/><br/>
+  <br/>
  <div>
   <a href="https://github.com/JuuhNeumann">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuuhNeumann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
