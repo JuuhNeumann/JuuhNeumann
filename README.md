@@ -32,10 +32,10 @@
   <img align="center" alt="Neumann-Postgree" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Neumann-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Neumann-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+      <br/><br/>
   <img align="center" alt="Neumann-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Neumann-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img align="center" alt="Neumann-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-    <br/><br/>
   <img align="center" alt="Neumann-Matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Neumann-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Neumann-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
