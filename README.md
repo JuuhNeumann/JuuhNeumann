@@ -1,5 +1,6 @@
 ## Júlia Neumann
- - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
+ - **🎓 Graduada em Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
+ - **🎓 Mestranda em Modelagem Computacional no Laboratório Nacional de Computação Científica (LNCC).** <br>
 
   <br/>
  <div>
